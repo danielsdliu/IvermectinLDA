@@ -1,3 +1,3 @@
 # IvermectinLDA
 
-Notebooks mostly describe what is contained.  Notebooks 3-4 were mostly used during the development portion but not the final model.  The LDA visualizations from the final model are contained in the folder.
+Notebooks mostly describe what is contained.  Notebooks 3-4 were mostly used for development portion and are there mostly for the record.  The final model is in Notebook 5.  The LDA visualizations from the final model are contained in the folder.
