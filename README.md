@@ -6,4 +6,3 @@ You will need your own Twitter API key (ideally with research access) and MongoD
 
 The final model is uploaded in the LDA Model folder, you'll likely need to install gensim to load it though.
 
-[pyLDAVis using TSNE](LDA Topic Visualizations/1gram-ldavis-t13-tsne.html)
