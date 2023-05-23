@@ -4,5 +4,5 @@ Notebooks mostly describe what is contained.  Notebooks 3-4 were mostly used for
 
 You will need your own Twitter API key (ideally with research access) and MongoDB database to replicate parts 1 and 2.  For the remainder of the notebooks, the filesystem was edited to relative paths, but should still work.
 
-The final model is uploaded in the LDA Model folder, you'll likely need to install gensim to load it though.
+The final model is uploaded in the LDA Model folder along with the vectorizer and dictionary.  You will have to provide the corpus of tweets though.
 
